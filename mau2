@@ -1,1 +1,7 @@
-
+class tên_lớp
+{
+  private:[Khai báo các thuộc tính]
+  [Định nghĩa các hàm thành phần (phương thức)] 
+  public : [Khai báo các thuộc tính]
+  [Định nghĩa các hàm thành phần (phương thức)]
+} ;
